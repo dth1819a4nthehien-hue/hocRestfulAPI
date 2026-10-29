@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringRestWithAiApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SpringRestWithAiApplication.class, args);
 	}
 
